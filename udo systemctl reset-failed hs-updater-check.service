@@ -1,0 +1,2154 @@
+Oct 14 01:52:20 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1062431.[0m
+Oct 14 01:52:21 homeserver updater-core.sh[597266]: {
+Oct 14 01:52:21 homeserver updater-core.sh[597266]:   "schema": 1,
+Oct 14 01:52:21 homeserver updater-core.sh[597266]:   "lastCheck": "2026-10-13T23:52:21Z",
+Oct 14 01:52:21 homeserver updater-core.sh[597266]:   "available": false,
+Oct 14 01:52:21 homeserver updater-core.sh[597266]:   "latest": null,
+Oct 14 01:52:21 homeserver updater-core.sh[597266]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:52:21Z\"}"
+Oct 14 01:52:21 homeserver updater-core.sh[597266]: }
+Oct 14 01:52:21 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:52:21 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1062431.[0m
+Oct 14 01:52:24 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1062719.[0m
+Oct 14 01:52:25 homeserver updater-core.sh[597459]: {
+Oct 14 01:52:25 homeserver updater-core.sh[597459]:   "schema": 1,
+Oct 14 01:52:25 homeserver updater-core.sh[597459]:   "lastCheck": "2026-10-13T23:52:25Z",
+Oct 14 01:52:25 homeserver updater-core.sh[597459]:   "available": false,
+Oct 14 01:52:25 homeserver updater-core.sh[597459]:   "latest": null,
+Oct 14 01:52:25 homeserver updater-core.sh[597459]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:52:25Z\"}"
+Oct 14 01:52:25 homeserver updater-core.sh[597459]: }
+Oct 14 01:52:25 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:52:25 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1062719.[0m
+Oct 14 01:52:31 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1063151.[0m
+Oct 14 01:52:32 homeserver updater-core.sh[597681]: {
+Oct 14 01:52:32 homeserver updater-core.sh[597681]:   "schema": 1,
+Oct 14 01:52:32 homeserver updater-core.sh[597681]:   "lastCheck": "2026-10-13T23:52:32Z",
+Oct 14 01:52:32 homeserver updater-core.sh[597681]:   "available": false,
+Oct 14 01:52:32 homeserver updater-core.sh[597681]:   "latest": null,
+Oct 14 01:52:32 homeserver updater-core.sh[597681]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:52:32Z\"}"
+Oct 14 01:52:32 homeserver updater-core.sh[597681]: }
+Oct 14 01:52:32 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:52:32 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1063151.[0m
+Oct 14 01:52:34 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1063439.[0m
+Oct 14 01:52:35 homeserver updater-core.sh[597868]: {
+Oct 14 01:52:35 homeserver updater-core.sh[597868]:   "schema": 1,
+Oct 14 01:52:35 homeserver updater-core.sh[597868]:   "lastCheck": "2026-10-13T23:52:34Z",
+Oct 14 01:52:35 homeserver updater-core.sh[597868]:   "available": false,
+Oct 14 01:52:35 homeserver updater-core.sh[597868]:   "latest": null,
+Oct 14 01:52:35 homeserver updater-core.sh[597868]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:52:35Z\"}"
+Oct 14 01:52:35 homeserver updater-core.sh[597868]: }
+Oct 14 01:52:35 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:52:35 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1063439.[0m
+Oct 14 01:59:14 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1074527.[0m
+Oct 14 01:59:15 homeserver updater-core.sh[604177]: {
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   "schema": 1,
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   "lastCheck": "2026-10-13T23:59:15Z",
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   "available": true,
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   "latest": {
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:     "version": "0.6.0",
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   },
+Oct 14 01:59:15 homeserver updater-core.sh[604177]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:59:15Z\"}"
+Oct 14 01:59:15 homeserver updater-core.sh[604177]: }
+Oct 14 01:59:15 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:59:15 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1074527.[0m
+Oct 14 01:59:30 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1075247.[0m
+Oct 14 01:59:31 homeserver updater-core.sh[604563]: {
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   "schema": 1,
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   "lastCheck": "2026-10-13T23:59:31Z",
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   "available": true,
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   "latest": {
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:     "version": "0.6.0",
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   },
+Oct 14 01:59:31 homeserver updater-core.sh[604563]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:59:31Z\"}"
+Oct 14 01:59:31 homeserver updater-core.sh[604563]: }
+Oct 14 01:59:31 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:59:31 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1075247.[0m
+Oct 14 01:59:47 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1075967.[0m
+Oct 14 01:59:48 homeserver updater-core.sh[604945]: {
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   "schema": 1,
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   "lastCheck": "2026-10-13T23:59:48Z",
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   "available": true,
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   "latest": {
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:     "version": "0.6.0",
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   },
+Oct 14 01:59:48 homeserver updater-core.sh[604945]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:59:48Z\"}"
+Oct 14 01:59:48 homeserver updater-core.sh[604945]: }
+Oct 14 01:59:48 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:59:48 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1075967.[0m
+Oct 14 01:59:53 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1076255.[0m
+Oct 14 01:59:54 homeserver updater-core.sh[605180]: {
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   "schema": 1,
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   "lastCheck": "2026-10-13T23:59:54Z",
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   "available": true,
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   "latest": {
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:     "version": "0.6.0",
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   },
+Oct 14 01:59:54 homeserver updater-core.sh[605180]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-13T23:59:54Z\"}"
+Oct 14 01:59:54 homeserver updater-core.sh[605180]: }
+Oct 14 01:59:54 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 01:59:54 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1076255.[0m
+Oct 14 02:00:18 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1077551.[0m
+Oct 14 02:00:19 homeserver updater-core.sh[605795]: {
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "schema": 1,
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "lastCheck": "2026-10-14T00:00:19Z",
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "available": true,
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "latest": {
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:     "version": "0.6.0",
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   },
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:00:19Z\"}",
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   "lastRun": {
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:     "at": "2026-10-13T23:59:58Z",
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:     "result": "running",
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:     "message": "mise à jour en cours"
+Oct 14 02:00:19 homeserver updater-core.sh[605795]:   }
+Oct 14 02:00:19 homeserver updater-core.sh[605795]: }
+Oct 14 02:00:19 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:00:19 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1077551.[0m
+Oct 14 02:00:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1078271.[0m
+Oct 14 02:00:37 homeserver updater-core.sh[606285]: {
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "schema": 1,
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "lastCheck": "2026-10-14T00:00:37Z",
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "available": true,
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "latest": {
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:     "version": "0.6.0",
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   },
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:00:37Z\"}",
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   "lastRun": {
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:     "result": "running",
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:     "message": "mise à jour en cours"
+Oct 14 02:00:37 homeserver updater-core.sh[606285]:   }
+Oct 14 02:00:37 homeserver updater-core.sh[606285]: }
+Oct 14 02:00:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:00:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1078271.[0m
+Oct 14 02:01:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1080287.[0m
+Oct 14 02:01:37 homeserver updater-core.sh[607352]: {
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "schema": 1,
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "lastCheck": "2026-10-14T00:01:37Z",
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "available": true,
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "latest": {
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:     "version": "0.6.0",
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   },
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:01:37Z\"}",
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   "lastRun": {
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:     "result": "running",
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:     "message": "mise à jour en cours"
+Oct 14 02:01:37 homeserver updater-core.sh[607352]:   }
+Oct 14 02:01:37 homeserver updater-core.sh[607352]: }
+Oct 14 02:01:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:01:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1080287.[0m
+Oct 14 02:02:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1082015.[0m
+Oct 14 02:02:37 homeserver updater-core.sh[608416]: {
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "schema": 1,
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "lastCheck": "2026-10-14T00:02:37Z",
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "available": true,
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "latest": {
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:     "version": "0.6.0",
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   },
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:02:37Z\"}",
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   "lastRun": {
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:     "result": "running",
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:     "message": "mise à jour en cours"
+Oct 14 02:02:37 homeserver updater-core.sh[608416]:   }
+Oct 14 02:02:37 homeserver updater-core.sh[608416]: }
+Oct 14 02:02:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:02:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1082015.[0m
+Oct 14 02:03:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1083887.[0m
+Oct 14 02:03:37 homeserver updater-core.sh[609484]: {
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "schema": 1,
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "lastCheck": "2026-10-14T00:03:37Z",
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "available": true,
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "latest": {
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:     "version": "0.6.0",
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   },
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:03:37Z\"}",
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   "lastRun": {
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:     "result": "running",
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:     "message": "mise à jour en cours"
+Oct 14 02:03:37 homeserver updater-core.sh[609484]:   }
+Oct 14 02:03:37 homeserver updater-core.sh[609484]: }
+Oct 14 02:03:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:03:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1083887.[0m
+Oct 14 02:04:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1085615.[0m
+Oct 14 02:04:37 homeserver updater-core.sh[610548]: {
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "schema": 1,
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "lastCheck": "2026-10-14T00:04:37Z",
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "available": true,
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "latest": {
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:     "version": "0.6.0",
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   },
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:04:37Z\"}",
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   "lastRun": {
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:     "result": "running",
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:     "message": "mise à jour en cours"
+Oct 14 02:04:37 homeserver updater-core.sh[610548]:   }
+Oct 14 02:04:37 homeserver updater-core.sh[610548]: }
+Oct 14 02:04:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:04:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1085615.[0m
+Oct 14 02:05:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1087487.[0m
+Oct 14 02:05:37 homeserver updater-core.sh[611615]: {
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "schema": 1,
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "lastCheck": "2026-10-14T00:05:37Z",
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "available": true,
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "latest": {
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:     "version": "0.6.0",
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   },
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:05:37Z\"}",
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   "lastRun": {
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:     "result": "running",
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:     "message": "mise à jour en cours"
+Oct 14 02:05:37 homeserver updater-core.sh[611615]:   }
+Oct 14 02:05:37 homeserver updater-core.sh[611615]: }
+Oct 14 02:05:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:05:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1087487.[0m
+Oct 14 02:06:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1089215.[0m
+Oct 14 02:06:37 homeserver updater-core.sh[612679]: {
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "schema": 1,
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "lastCheck": "2026-10-14T00:06:37Z",
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "available": true,
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "latest": {
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:     "version": "0.6.0",
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   },
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:06:37Z\"}",
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   "lastRun": {
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:     "result": "running",
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:     "message": "mise à jour en cours"
+Oct 14 02:06:37 homeserver updater-core.sh[612679]:   }
+Oct 14 02:06:37 homeserver updater-core.sh[612679]: }
+Oct 14 02:06:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:06:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1089215.[0m
+Oct 14 02:07:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1090943.[0m
+Oct 14 02:07:37 homeserver updater-core.sh[613746]: {
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "schema": 1,
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "lastCheck": "2026-10-14T00:07:37Z",
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "available": true,
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "latest": {
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:     "version": "0.6.0",
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   },
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:07:37Z\"}",
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   "lastRun": {
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:     "result": "running",
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:     "message": "mise à jour en cours"
+Oct 14 02:07:37 homeserver updater-core.sh[613746]:   }
+Oct 14 02:07:37 homeserver updater-core.sh[613746]: }
+Oct 14 02:07:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:07:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1090943.[0m
+Oct 14 02:08:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1092815.[0m
+Oct 14 02:08:37 homeserver updater-core.sh[614782]: {
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "schema": 1,
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "lastCheck": "2026-10-14T00:08:37Z",
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "available": true,
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "latest": {
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:     "version": "0.6.0",
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   },
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:08:37Z\"}",
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   "lastRun": {
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:     "result": "running",
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:     "message": "mise à jour en cours"
+Oct 14 02:08:37 homeserver updater-core.sh[614782]:   }
+Oct 14 02:08:37 homeserver updater-core.sh[614782]: }
+Oct 14 02:08:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:08:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1092815.[0m
+Oct 14 02:09:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1094687.[0m
+Oct 14 02:09:37 homeserver updater-core.sh[615930]: {
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "schema": 1,
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "lastCheck": "2026-10-14T00:09:37Z",
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "available": true,
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "latest": {
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:     "version": "0.6.0",
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   },
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:09:37Z\"}",
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   "lastRun": {
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:     "result": "running",
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:     "message": "mise à jour en cours"
+Oct 14 02:09:37 homeserver updater-core.sh[615930]:   }
+Oct 14 02:09:37 homeserver updater-core.sh[615930]: }
+Oct 14 02:09:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:09:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1094687.[0m
+Oct 14 02:10:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1096703.[0m
+Oct 14 02:10:37 homeserver updater-core.sh[617001]: {
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "schema": 1,
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "lastCheck": "2026-10-14T00:10:37Z",
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "available": true,
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "latest": {
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:     "version": "0.6.0",
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   },
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:10:37Z\"}",
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   "lastRun": {
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:     "result": "running",
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:     "message": "mise à jour en cours"
+Oct 14 02:10:37 homeserver updater-core.sh[617001]:   }
+Oct 14 02:10:37 homeserver updater-core.sh[617001]: }
+Oct 14 02:10:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:10:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1096703.[0m
+Oct 14 02:11:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1098431.[0m
+Oct 14 02:11:37 homeserver updater-core.sh[618065]: {
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "schema": 1,
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "lastCheck": "2026-10-14T00:11:37Z",
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "available": true,
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "latest": {
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:     "version": "0.6.0",
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   },
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:11:37Z\"}",
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   "lastRun": {
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:     "result": "running",
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:     "message": "mise à jour en cours"
+Oct 14 02:11:37 homeserver updater-core.sh[618065]:   }
+Oct 14 02:11:37 homeserver updater-core.sh[618065]: }
+Oct 14 02:11:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:11:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1098431.[0m
+Oct 14 02:12:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1100303.[0m
+Oct 14 02:12:37 homeserver updater-core.sh[619131]: {
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "schema": 1,
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "lastCheck": "2026-10-14T00:12:37Z",
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "available": true,
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "latest": {
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:     "version": "0.6.0",
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   },
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:12:37Z\"}",
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   "lastRun": {
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:     "result": "running",
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:     "message": "mise à jour en cours"
+Oct 14 02:12:37 homeserver updater-core.sh[619131]:   }
+Oct 14 02:12:37 homeserver updater-core.sh[619131]: }
+Oct 14 02:12:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:12:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1100303.[0m
+Oct 14 02:13:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1102031.[0m
+Oct 14 02:13:37 homeserver updater-core.sh[620198]: {
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "schema": 1,
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "lastCheck": "2026-10-14T00:13:37Z",
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "available": true,
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "latest": {
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:     "version": "0.6.0",
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   },
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:13:37Z\"}",
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   "lastRun": {
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:     "result": "running",
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:     "message": "mise à jour en cours"
+Oct 14 02:13:37 homeserver updater-core.sh[620198]:   }
+Oct 14 02:13:37 homeserver updater-core.sh[620198]: }
+Oct 14 02:13:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:13:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1102031.[0m
+Oct 14 02:14:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1103903.[0m
+Oct 14 02:14:37 homeserver updater-core.sh[621264]: {
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "schema": 1,
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "lastCheck": "2026-10-14T00:14:37Z",
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "available": true,
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "latest": {
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:     "version": "0.6.0",
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   },
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:14:37Z\"}",
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   "lastRun": {
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:     "result": "running",
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:     "message": "mise à jour en cours"
+Oct 14 02:14:37 homeserver updater-core.sh[621264]:   }
+Oct 14 02:14:37 homeserver updater-core.sh[621264]: }
+Oct 14 02:14:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:14:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1103903.[0m
+Oct 14 02:15:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1105631.[0m
+Oct 14 02:15:37 homeserver updater-core.sh[622328]: {
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "schema": 1,
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "lastCheck": "2026-10-14T00:15:37Z",
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "available": true,
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "latest": {
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:     "version": "0.6.0",
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   },
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:15:37Z\"}",
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   "lastRun": {
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:     "result": "running",
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:     "message": "mise à jour en cours"
+Oct 14 02:15:37 homeserver updater-core.sh[622328]:   }
+Oct 14 02:15:37 homeserver updater-core.sh[622328]: }
+Oct 14 02:15:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:15:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1105631.[0m
+Oct 14 02:16:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1107503.[0m
+Oct 14 02:16:37 homeserver updater-core.sh[623394]: {
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "schema": 1,
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "lastCheck": "2026-10-14T00:16:37Z",
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "available": true,
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "latest": {
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:     "version": "0.6.0",
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   },
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:16:37Z\"}",
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   "lastRun": {
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:     "result": "running",
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:     "message": "mise à jour en cours"
+Oct 14 02:16:37 homeserver updater-core.sh[623394]:   }
+Oct 14 02:16:37 homeserver updater-core.sh[623394]: }
+Oct 14 02:16:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:16:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1107503.[0m
+Oct 14 02:17:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1109231.[0m
+Oct 14 02:17:37 homeserver updater-core.sh[624463]: {
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "schema": 1,
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "lastCheck": "2026-10-14T00:17:37Z",
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "available": true,
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "latest": {
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:     "version": "0.6.0",
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   },
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:17:37Z\"}",
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   "lastRun": {
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:     "result": "running",
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:     "message": "mise à jour en cours"
+Oct 14 02:17:37 homeserver updater-core.sh[624463]:   }
+Oct 14 02:17:37 homeserver updater-core.sh[624463]: }
+Oct 14 02:17:37 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:17:37 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1109231.[0m
+Oct 14 02:18:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1111103.[0m
+Oct 14 02:18:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:18:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:18:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1111103 and the job result is failed.[0m
+Oct 14 02:19:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1112831.[0m
+Oct 14 02:19:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:19:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:19:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1112831 and the job result is failed.[0m
+Oct 14 02:20:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1114847.[0m
+Oct 14 02:20:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:20:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:20:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1114847 and the job result is failed.[0m
+Oct 14 02:21:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1116575.[0m
+Oct 14 02:21:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:21:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:21:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1116575 and the job result is failed.[0m
+Oct 14 02:22:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1118447.[0m
+Oct 14 02:22:37 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:22:37 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:22:37 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1118447 and the job result is failed.[0m
+Oct 14 02:23:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1120175.[0m
+Oct 14 02:23:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:23:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:23:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1120175 and the job result is failed.[0m
+Oct 14 02:24:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1122047.[0m
+Oct 14 02:24:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:24:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:24:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1122047 and the job result is failed.[0m
+Oct 14 02:25:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1123775.[0m
+Oct 14 02:25:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:25:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:25:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1123775 and the job result is failed.[0m
+Oct 14 02:26:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1125647.[0m
+Oct 14 02:26:36 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:26:36 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:26:36 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1125647 and the job result is failed.[0m
+Oct 14 02:27:36 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1127375.[0m
+Oct 14 02:27:37 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:27:37 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:27:37 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1127375 and the job result is failed.[0m
+Oct 14 02:28:11 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128527.[0m
+Oct 14 02:28:11 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:11 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:11 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128527 and the job result is failed.[0m
+Oct 14 02:28:13 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128671.[0m
+Oct 14 02:28:13 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:13 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:13 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128671 and the job result is failed.[0m
+Oct 14 02:28:18 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128959.[0m
+Oct 14 02:28:18 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:18 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:18 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1128959 and the job result is failed.[0m
+Oct 14 02:28:28 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1129391.[0m
+Oct 14 02:28:28 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:28 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:28 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1129391 and the job result is failed.[0m
+Oct 14 02:28:34 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1129823.[0m
+Oct 14 02:28:35 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:35 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:35 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1129823 and the job result is failed.[0m
+Oct 14 02:28:40 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1130255.[0m
+Oct 14 02:28:41 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:41 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:41 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1130255 and the job result is failed.[0m
+Oct 14 02:28:44 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1130543.[0m
+Oct 14 02:28:44 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:28:44 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:28:44 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1130543 and the job result is failed.[0m
+Oct 14 02:37:03 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1144511.[0m
+Oct 14 02:37:03 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:37:03 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:37:03 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1144511 and the job result is failed.[0m
+Oct 14 02:37:51 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1145951.[0m
+Oct 14 02:37:51 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:37:51 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:37:51 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1145951 and the job result is failed.[0m
+Oct 14 02:37:52 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1146383.[0m
+Oct 14 02:37:52 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:37:52 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:37:52 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1146383 and the job result is failed.[0m
+Oct 14 02:37:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1146527.[0m
+Oct 14 02:37:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:37:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:37:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1146527 and the job result is failed.[0m
+Oct 14 02:38:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1148543.[0m
+Oct 14 02:38:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:38:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:38:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1148543 and the job result is failed.[0m
+Oct 14 02:39:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1150559.[0m
+Oct 14 02:39:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:39:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:39:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1150559 and the job result is failed.[0m
+Oct 14 02:40:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1152431.[0m
+Oct 14 02:40:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:40:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:40:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1152431 and the job result is failed.[0m
+Oct 14 02:41:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1154303.[0m
+Oct 14 02:41:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:41:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:41:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1154303 and the job result is failed.[0m
+Oct 14 02:42:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1156031.[0m
+Oct 14 02:42:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:42:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:42:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1156031 and the job result is failed.[0m
+Oct 14 02:43:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1157903.[0m
+Oct 14 02:43:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:43:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:43:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1157903 and the job result is failed.[0m
+Oct 14 02:44:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1159631.[0m
+Oct 14 02:44:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:44:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:44:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1159631 and the job result is failed.[0m
+Oct 14 02:45:37 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1161071.[0m
+Oct 14 02:45:38 homeserver updater-core.sh[652038]: {
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "schema": 1,
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "lastCheck": "2026-10-14T00:45:38Z",
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "available": true,
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "latest": {
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:     "version": "0.6.0",
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:     "notes": "# Panel v0.6.0 — Mise à jour autonome\r\n\r\nLe panel sait désormais se mettre à jour tout seul, proprement et sans downtime.\r\n\r\n## Système de mise à jour\r\n\r\n- **Updater autonome** : un couple core+updater installé hors des releases, capable de se réparer mutuellement et de se mettre à jour lui-même\r\n- **Releases atomiques** : chaque version est construite à côté de l'actuelle, bascule par symlink, health-check, retour arrière automatique en cas de problème\r\n- **Vérification toutes les 6h** : une notification persistante apparaît quand une nouvelle version est disponible\r\n- **Changelog intégré** : la modale affiche les notes de version, mise à jour en un clic\r\n\r\n## Domaines\r\n\r\n- **Domaines gérés par le registrar** : déclare un domaine hébergé chez OVH, Gandi, etc. sans créer de zone Bind9 inutile\r\n\r\n## Interface\r\n\r\n- Carte \"Panel\" en supervision : version en grand, mise à jour en un clic\r\n- Voyant de santé de l'updater dans les paramètres\r\n\r\n## Technique\r\n\r\n- Désinstallation complète (releases, updater, logs, utilisateur)\r\n- Redéploiement aligné sur le layout releases (bascule + rollback)\r\n- Nettoyage du code mort, factorisation du front"
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   },
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "updaterHealth": "{\"core\": \"ok\", \"updater\": \"ok\", \"pairVersion\": \"{\"version\": \"1.0.0\", \"panelMin\": \"0.5.0\"}\", \"selfUpdated\": false, \"checkedAt\": \"2026-10-14T00:45:38Z\"}",
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   "lastRun": {
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:     "at": "2026-10-14T00:00:31Z",
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:     "result": "running",
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:     "message": "mise à jour en cours"
+Oct 14 02:45:38 homeserver updater-core.sh[652038]:   }
+Oct 14 02:45:38 homeserver updater-core.sh[652038]: }
+Oct 14 02:45:38 homeserver systemd[1]: hs-updater-check.service: Deactivated successfully.
+[0;38:5:245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has successfully entered the 'dead' state.[0m
+Oct 14 02:45:38 homeserver systemd[1]: Finished hs-updater-check.service - Homeserver updater - check périodique.
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has finished successfully[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished successfully.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1161071.[0m
+Oct 14 02:45:54 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1161791.[0m
+Oct 14 02:45:54 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:45:54 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:45:54 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1161791 and the job result is failed.[0m
+Oct 14 02:46:18 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1162511.[0m
+Oct 14 02:46:18 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:18 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:18 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1162511 and the job result is failed.[0m
+Oct 14 02:46:20 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163087.[0m
+Oct 14 02:46:20 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:20 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:20 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163087 and the job result is failed.[0m
+Oct 14 02:46:21 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163231.[0m
+Oct 14 02:46:21 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:21 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:21 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163231 and the job result is failed.[0m
+Oct 14 02:46:43 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163951.[0m
+Oct 14 02:46:43 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:43 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:43 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1163951 and the job result is failed.[0m
+Oct 14 02:46:45 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1164383.[0m
+Oct 14 02:46:45 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:45 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:45 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1164383 and the job result is failed.[0m
+Oct 14 02:46:46 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1164959.[0m
+Oct 14 02:46:46 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:46 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:46 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1164959 and the job result is failed.[0m
+Oct 14 02:46:49 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165103.[0m
+Oct 14 02:46:49 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:49 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:49 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165103 and the job result is failed.[0m
+Oct 14 02:46:56 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165535.[0m
+Oct 14 02:46:56 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:56 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:56 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165535 and the job result is failed.[0m
+Oct 14 02:46:57 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165823.[0m
+Oct 14 02:46:57 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:46:57 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:46:57 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1165823 and the job result is failed.[0m
+Oct 14 02:47:53 homeserver systemd[1]: Starting hs-updater-check.service - Homeserver updater - check périodique...
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has begun execution[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has begun execution.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1167552.[0m
+Oct 14 02:47:53 homeserver systemd[1]: [0;1;39m[0;1;31m[0;1;39mhs-updater-check.service: Main process exited, code=exited, status=22/n/a[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mAn ExecStart= process belonging to unit hs-updater-check.service has exited.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 22.[0m
+Oct 14 02:47:53 homeserver systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mhs-updater-check.service: Failed with result 'exit-code'.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe unit hs-updater-check.service has entered the 'failed' state with result 'exit-code'.[0m
+Oct 14 02:47:53 homeserver systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start hs-updater-check.service - Homeserver updater - check périodique.[0m
+[0;38:5:245m░░ [0m[0;32mSubject: A start job for unit hs-updater-check.service has failed[0m
+[0;38:5:245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38:5:245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mA start job for unit hs-updater-check.service has finished with a failure.[0m
+[0;38:5:245m░░[0m [0;32m[0m
+[0;38:5:245m░░[0m [0;32mThe job identifier is 1167552 and the job result is failed.[0m
