@@ -14,10 +14,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Construire le tarball du couple
+      - name: Construire et signer le tarball du couple
+        # Clé Ed25519 privée (PEM) en secret du dépôt : sans elle, pas de release
+        # (pair_repair refuse toute archive non signée à partir du couple 1.1.0).
+        env:
+          HS_RELEASE_SIGNING_KEY: ${{ secrets.HS_RELEASE_SIGNING_KEY }}
+          HS_REQUIRE_SIGNATURE: "1"
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
-          bash make-release.sh "$VERSION" "0.6.1"
+          bash make-release.sh "$VERSION" "0.8.0"
+
+      - name: Vérifier la signature avec la clé publique embarquée
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          sed -n "/^HS_RELEASE_PUBKEY=/,/END PUBLIC KEY/p" common/pair.sh | sed "s/^HS_RELEASE_PUBKEY='//; s/'\$//" > /tmp/pub.pem
+          openssl pkeyutl -verify -pubin -inkey /tmp/pub.pem -rawin \
+            -in "dist/homeserver-updater-$VERSION.tar.gz" \
+            -sigfile "dist/homeserver-updater-$VERSION.tar.gz.sig"
 
       - name: Publier la release avec les assets
         env:
@@ -26,6 +39,7 @@ jobs:
           VERSION="${GITHUB_REF_NAME#v}"
           gh release create "$GITHUB_REF_NAME" \
             --title "v$VERSION" \
-            --notes "Couple updater v$VERSION — core + updater avec réparation mutuelle." \
+            --notes "Couple updater v$VERSION — core + updater avec réparation mutuelle, archives signées (Ed25519)." \
             dist/homeserver-updater-$VERSION.tar.gz \
-            dist/homeserver-updater-$VERSION.tar.gz.sha256
+            dist/homeserver-updater-$VERSION.tar.gz.sha256 \
+            dist/homeserver-updater-$VERSION.tar.gz.sig
